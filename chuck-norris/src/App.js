@@ -1,11 +1,11 @@
 import './App.css';
-import Quotes from './components/Quotes/Quotes';
+import Facts from './components/Facts/Facts';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Quotes />
+        <Facts />
       </header>
     </div>
   );
