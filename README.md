@@ -38,6 +38,10 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+<a name="screenshots"></a>
+
+## Screenshot
+ ![Screenshot of Food Page ](./chuck-norris/src/images/screenshot.png)
 
 <a name="links"></a>
 
@@ -50,4 +54,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <a name="credits"></a>
 
 ## Resources / Credits
-This project was developed with assistance in the form of starter code to design the front end, and guidance through my tutor Robert Parsons.
+I used the Chuck Norris Facts API and also some CSS Button Style from Prio-Soft.
+
+* Chuck Norris Facts API: https://api.chucknorris.io/
+* Prio-Soft: https://codepen.io/priosoft
