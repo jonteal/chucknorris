@@ -41,7 +41,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <a name="screenshots"></a>
 
 ## Screenshot
- ![Screenshot of Chuck Norris Fact ](./chuck-norris/src/images/screenshot.png)
+ ![Screenshot of Chuck Norris Fact ](./src/images/screenshot.png)
 
 <a name="links"></a>
 
